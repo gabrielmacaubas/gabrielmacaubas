@@ -1,6 +1,6 @@
 ### Olá, me chamo Gabriel Macaúbas 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmacaubas&layout=compact&show_icons=true&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmacaubas&layout=compact&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **gabrielmacaubas/gabrielmacaubas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
