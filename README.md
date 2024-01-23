@@ -1,7 +1,7 @@
 ### Olá, me chamo Gabriel Macaúbas 🖖
 
 - 🔭 Sou estudante de Sistemas para Internet no IFPB
-- 🌱 Aprendendo VueJS
+- 🌱 Aprendendo PHP!
 - 🐍 Desenvolvedor Back-End Python!
 - 👩‍💻 Principais Projetos estão fixados abaixo
 
